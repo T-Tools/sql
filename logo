@@ -1,0 +1,14 @@
+echo -e "\e[1;35m 
+  ######  #### ########   ######  
+\e[1;31m ##    ##  ##  ##     ## ##    ## 
+\e[1;34m ##        ##  ##     ## ##       
+\e[1;32m  ######   ##  ########   ######  
+\e[1;33m       ##  ##  ##              ## 
+\e[1;35m ##    ##  ##  ##        ##    ## 
+ ######  #### ##         ######  
+
+Name::Sql Injection Point Scanner
+Script::PHP
+Coder::Yell Phone Naing
+Github::https://www.github.com/T-Tools
+\e[0m"
